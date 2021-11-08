@@ -1,0 +1,14 @@
+Project Homework #6
+
+You are one fourth of the way through project season! Record your 
+progress in Frodo using the template below and review with your 
+adviser in your next advising session.
+
+## Sprint 1: Part 1 -- Project Update
+### I have completed my MVP (yes/no): yes
+
+### I have completed these features for my MVP: Users can view a list of cafes and details about each cafe, Users can register and login, Users can save cafes to profile, also search feature of 2.0
+
+### This next phase, I plan to work on: Implementing a map with markers for results, display review ratings as stars rather than just typed numbers, incorporate another API to retrieve ratings for cafes - possibly make a JS graph to display those
+
+### My general work plan/estimate for the rest of Sprint 1 is: I imagine I'll finish all the above within the end of this sprint. May incorporate other features if time allows.
